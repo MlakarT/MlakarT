@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @MlakarT
-- 👀 I’m interested in math, science, programming, and electronic music
-- 🌱 I’m currently learning python, planning on JS
+- 👀 I’m interested in math, science, programming, and nerdy stuff such as Dungeons and Dragons
+- 🌱 I’m currently learning Python, JavaScript, functional programming (ocaml)
 - 🎓 I study at the Faculty of Mathematics and Physics at the University of Ljubljana
+- 🧰 Second year undergraduate student of pure maths
+- 🥋 First dan shotokan karate, competitor in world karate
 - 📫 How to reach me 
   - email: business.mlakar@gmail.com and tm2012@student.uni-lj.si
   - twt: @MlakarTimotej
